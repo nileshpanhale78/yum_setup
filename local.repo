@@ -1,0 +1,5 @@
+[localrepo]
+name=master_repo
+baseurl=file:///mnt/repo/
+enabled=1
+gpgcheck=0
